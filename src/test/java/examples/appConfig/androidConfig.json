@@ -1,0 +1,9 @@
+{
+  "hub" : "http://127.0.0.1:8200/wd/hub",
+  "platformName": "Android",
+  "deviceName": "anhAA",
+  "automationName": "UiAutomator2",
+  "udid": "emulator-5554",
+  "appPackage": "com.techcombank.retail.stage",
+  "appActivity": "com.techcombank.retail.MainActivity"
+}
